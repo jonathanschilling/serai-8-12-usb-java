@@ -1,0 +1,4 @@
+
+
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0547", ATTRS{idProduct}=="2131", OWNER="jonathan"
+
